@@ -39,7 +39,7 @@ You can deploy your own bot, or use mine: [@chatgpt_karfly_bot](https://t.me/cha
 ---
 
 ## 🤑 Payments
-[My bot](https://t.me/chatgpt_karfly_bot) supports many payments providers:
+[My bot](https://t.me/GPT_R3bot) supports many payments providers:
 - 💎 Crypto
 - [Stripe](https://stripe.com)
 - [Smart Glocal](https://smart-glocal.com)
@@ -47,7 +47,7 @@ You can deploy your own bot, or use mine: [@chatgpt_karfly_bot](https://t.me/cha
 - [ЮMoney](https://yoomoney.ru)
 - and [many-many other](https://core.telegram.org/bots/payments#supported-payment-providers)
 
-If you want to add payments to your bot – write me on Telegram ([@karfly](https://t.me/karfly)).
+If you want to add payments to your bot – write me on Telegram ([@AlaWiDev](https://t.me/AlaWiDiv)).
 
 ## News
 - *24 Mar 2023*: GPT-4 support. Run `/settings` command to choose model
